@@ -1,1 +1,1 @@
-This repo contains pre-built helper functions for training, testing Neural Networks for computer vision related projects
+This repo contains pre-built helper functions for training, testing Neural Networks in PyTorch
